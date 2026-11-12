@@ -1,0 +1,8 @@
+{
+  "name": "Remix ExtruData - Registro de Extrusión",
+  "description": "App Android para captura, monitoreo térmico, control de calidad y registro de parámetros de máquinas de extrusión.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
